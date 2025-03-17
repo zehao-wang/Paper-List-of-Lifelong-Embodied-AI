@@ -42,6 +42,16 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - Jacquard: A Large Scale Dataset for Robotic Grasp Detection
   - ACRONYM: A Large-Scale Grasp Dataset Based on Simulation
   - MultigripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands
+  - Benchmark for human-to-robot handovers of unseen containers with unknown ﬁlling
+  - Robust robotic pouring using audition and haptics
+  - Rearrangement: A challenge for embodied ai
+  - Lohoravens: A long-horizon language-conditioned benchmark for robotic tabletop manipulation
+  - Cliport: What and where pathways for robotic manipulation
+  - Robonet: Large-scale multi-robot learning
+  - Rlbench: The robot learning benchmark & learning environment
+  - Bc-z: Zero-shot task generalization with robotic imitation learning
+  - Open XEmbodiment: Robotic learning datasets and RT-X models
+  - Droid: A large-scale in-thewild robot manipulation dataset
 - **Embodied Navigation**:
   -  Object-Goal Navigation Using Goal-Oriented Semantic Exploration
   -  DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames
@@ -52,6 +62,9 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - OpenEQA: Embodied Question Answering in the Era of Foundation Models
   - Knowledge-Based Embodied Question Answering
   - Language Models Meet World Models: Embodied Experiences Enhance Language Models
+  - Embodied question answering
+  - Iqa: Visual question answering in interactive environments
+  - S-eqa: Tackling situational queries in embodied question answering
 
 ### Active Data Collection
 
