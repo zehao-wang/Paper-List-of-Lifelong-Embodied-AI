@@ -119,20 +119,46 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - Film: Following instructions in language with modular methods
   - Poni: Potential functions for objectgoal navigation with interaction-free learning
   - Tag map: A text-based map for spatial reasoning and navigation with large language models
-  - 
+  - Distilled feature ﬁelds enable few-shot language-guided manipulation
+  - Clip-ﬁelds: Weakly supervised semantic ﬁelds for robotic memory
+    
 - **Scene Graphs**: Efficient querying and environment structuring.
-  - 
+  - Hydra: A realtime spatial perception engine for 3d scene graph construction and optimization
+  - 3d dynamic scene graphs: Actionable spatial perception with places, objects, and humans
+  - Building dynamic knowledge graphs from text-based games
+  - Grid: Scene-graph-based instruction-driven robotic task planning
+  - Saynav: Grounding large language models for dynamic planning to navigation in new environments
+  - Conceptgraphs: Open-vocabulary 3d scene graphs for perception and planning
+  - Towards coarse-grained visual language navigation task planning enhanced by event knowledge graph
+    
 - **Skill Libraries**:
-  - 
-- **Log Data**: Storage for temporal event data and rapid environment updates.
+  - Text2motion: From natural language instructions to feasible plans
+  - Code as policies: Language model programs for embodied control
+  - Ok-robot: What really matters in integrating open-knowledge models for robotics
+  - Tulip agent–enabling llm-based agents to solve tasks using large tool libraries
+  - Voyager: An open-ended embodied agent with large language models
+  - Lifelong robot library learning: Bootstrapping composable and generalizable skills for embodied control with language models
+  - Bootstrap your own skills: Learning to solve new tasks with large language model guidance
+  - League++: Empowering continual robot learning through guided skill acquisition with large language models
+    
+- **Log Data**: 
+  - Remembr: Building and reasoning over long-horizon spatio-temporal memory for robot navigation
+  - Episodic memory verbalization using hierarchical representations of lifelong robot experience
 
 ## Knowledge Refinement
 ### Space and Time Efficiency
-- **Knowledge Distillation**: DEDER (Distilling Embodied-Relevant Knowledge from LLMs for Interactive Embodied Navigation Task).
-- **Quantization**: Quantization-aware training for efficient deployment.
-- **Pruning**: Structured and unstructured pruning techniques for embodied AI models.
+- **Knowledge Distillation**:
+  - Distilling internet-scale vision-language models into embodied agents
+  - Embodied cot distillation from llm to off-the-shelf agents
+  - Kickstarting deep reinforcement learning
+  - Gridtopix: Training embodied agents with minimal supervision
+- **Quantization**:
+  - Quantization-aware imitation-learning for resource-efﬁcient robotic control
+- **Pruning**:
+  - ...
 
 ### Generalization
-- Methods for improving model generalization through data efficiency, efficient compression, and balanced knowledge retention.
+- Embodied cot distillation from llm to off-the-shelf agents
+- Quantization-aware imitation-learning for resource-efﬁcient robotic control
 
 
