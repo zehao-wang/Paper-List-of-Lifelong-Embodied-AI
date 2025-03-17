@@ -6,15 +6,15 @@ Thank you for your support and collaboration!
 
 
 ## Table of Contents
-- [0.Introduction](#0-introduction)
-- [1.Embodied Agent Initialization](#1-embodied-agent-initialization)
-- [2.Data Collection](#2-data-collection)
+- [0. Introduction](#0-introduction)
+- [1. Embodied Agent Initialization](#1-embodied-agent-initialization)
+- [2. Data Collection](#2-data-collection)
   - [Human-Curated Data](#human-curated-data)
   - [Active Data Collection](#active-data-collection)
-- [3.Knowledge Consolidation](#3-knowledge-consolidation)
+- [3. Knowledge Consolidation](#3-knowledge-consolidation)
   - [In-parameter Knowledge Consolidation](#in-parameter-knowledge-consolidation)
   - [In-context Knowledge Consolidation](#in-context-knowledge-consolidation)
-- [4.Knowledge Refinement](#4-knowledge-refinement)
+- [4. Knowledge Refinement](#4-knowledge-refinement)
   - [Space and Time Efficiency](#space-and-time-efficiency)
   - [Generalization](#generalization)
 
