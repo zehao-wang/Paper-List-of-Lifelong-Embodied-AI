@@ -6,22 +6,22 @@ Thank you for your support and collaboration!
 
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Embodied Agent Initialization](#embodied-agent-initialization)
-- [Data Collection](#data-collection)
+- [0.Introduction](#0-introduction)
+- [1.Embodied Agent Initialization](#1-embodied-agent-initialization)
+- [2.Data Collection](#2-data-collection)
   - [Human-Curated Data](#human-curated-data)
   - [Active Data Collection](#active-data-collection)
-- [Knowledge Consolidation](#knowledge-consolidation)
+- [3.Knowledge Consolidation](#3-knowledge-consolidation)
   - [In-parameter Knowledge Consolidation](#in-parameter-knowledge-consolidation)
   - [In-context Knowledge Consolidation](#in-context-knowledge-consolidation)
-- [Knowledge Refinement](#knowledge-refinement)
+- [4.Knowledge Refinement](#4-knowledge-refinement)
   - [Space and Time Efficiency](#space-and-time-efficiency)
   - [Generalization](#generalization)
 
-## Introduction
+## 0 Introduction
 Lifelong embodied AI aims to enable autonomous agents to evolve continuously by acquiring, consolidating, and refining knowledge over time. This repository follows a structured approach to represent the major components of lifelong embodied AI.
 
-## Embodied Agent Initialization
+## 1 Embodied Agent Initialization
 ### Agent style models
 - Code as policies: Language model programs for embodied control
 - Ok-robot: What really matters in integrating open-knowledge models for robotics
@@ -35,7 +35,7 @@ Lifelong embodied AI aims to enable autonomous agents to evolve continuously by 
 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models
 - OpenVLA: An Open-Source Vision-Language-Action Model
 
-## Data Collection
+## 2 Data Collection
 ### Human-Curated Data
 A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodied AI Paper List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List).
 - **Robotic Manipulation**:
@@ -87,7 +87,7 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
     - Jarvis-1: Open-world multi-task agents with memory-augmented multimodal language models
     - Lifelong robot library learning: Bootstrapping composable and generalizable skills for embodied control with language models
 
-## Knowledge Consolidation
+## 3 Knowledge Consolidation
 ### In-parameter Knowledge Consolidation
 - **Regularization Approaches**:
   - Language models meet world models: Embodied experiences enhance language models
@@ -145,7 +145,7 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - Remembr: Building and reasoning over long-horizon spatio-temporal memory for robot navigation
   - Episodic memory verbalization using hierarchical representations of lifelong robot experience
 
-## Knowledge Refinement
+## 4 Knowledge Refinement
 ### Space and Time Efficiency
 - **Knowledge Distillation**:
   - Distilling internet-scale vision-language models into embodied agents
