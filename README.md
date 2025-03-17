@@ -68,7 +68,8 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
 
 ### Active Data Collection
 
-- **Low-level Perceptual Curiosity**: 
+- **Low-level Perceptual Curiosity**:
+  > An insightful survey you can refer to is *Interactive Perception: Leveraging Action in Perception and Perception in Action*
   - Learning to explore using active neural slam
   - Semantic curiosity for active visual learning
   - Embodied visual active learning for semantic segmentation
