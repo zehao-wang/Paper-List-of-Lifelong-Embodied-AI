@@ -172,7 +172,12 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - ...
 
 ### Generalization
+> Unlike training-stage generalization, refinement-stage generalization focuses on preserving performance when reducing model complexity as first discussed in "Optimal brain damage (1989)"
 - Embodied cot distillation from llm to off-the-shelf agents
 - Quantization-aware imitation-learning for resource-efﬁcient robotic control
+> Training-stage generalization papers for reference:
+> - Data augmentation: Reinforcement learning with augmented data
+> - Model Design: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion
+> - RLHF Training strategy: Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning (not embodied AI but provides evidence)
 
 
