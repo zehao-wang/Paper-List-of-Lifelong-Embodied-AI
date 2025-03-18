@@ -188,6 +188,8 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
 > Unlike training-stage generalization, refinement-stage generalization focuses on preserving performance when reducing model complexity as first discussed in "Optimal brain damage (1989)"
 - Embodied cot distillation from llm to off-the-shelf agents
 - Quantization-aware imitation-learning for resource-efﬁcient robotic control
+- MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation
+  
 > Training-stage generalization papers for reference:
 > - Data augmentation: Reinforcement learning with augmented data
 > - Model Design: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion
