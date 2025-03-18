@@ -161,15 +161,28 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
 
 ## 4 Knowledge Refinement
 ### Space and Time Efficiency
-- **Knowledge Distillation**:
-  - Distilling internet-scale vision-language models into embodied agents
-  - Embodied cot distillation from llm to off-the-shelf agents
-  - Kickstarting deep reinforcement learning
-  - Gridtopix: Training embodied agents with minimal supervision
-- **Quantization**:
-  - Quantization-aware imitation-learning for resource-efﬁcient robotic control
-- **Pruning**:
-  - ...
+- <ins>**In-parameter compression**</ins>
+  - **Knowledge Distillation**:
+    - Distilling internet-scale vision-language models into embodied agents
+    - Embodied cot distillation from llm to off-the-shelf agents
+    - Kickstarting deep reinforcement learning
+    - Gridtopix: Training embodied agents with minimal supervision
+    - MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation
+    - Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model
+  
+  - **Quantization**:
+    - Quantization-aware imitation-learning for resource-efﬁcient robotic control
+      
+  - **Pruning**:
+    - no papers related to embodied ai, but can refer to LLM related pruning strategies.
+      
+- <ins>**In-context compression**</ins>
+  - Dataset compression technique (text):
+    - [InnoDB](https://dev.mysql.com/doc/refman/8.0/en/innodb-introduction.html)
+  - Spatial data compression
+    - HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression
+    - ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model
+    - Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization
 
 ### Generalization
 > Unlike training-stage generalization, refinement-stage generalization focuses on preserving performance when reducing model complexity as first discussed in "Optimal brain damage (1989)"
