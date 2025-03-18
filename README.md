@@ -177,9 +177,10 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
     - no papers related to embodied ai, but can refer to LLM related pruning strategies.
       
 - <ins>**In-context compression**</ins>
-  - Dataset compression technique (text):
+  - Database compression technique (text):
     - [InnoDB](https://dev.mysql.com/doc/refman/8.0/en/innodb-introduction.html)
   - Spatial data compression
+    - [OctoMap](https://octomap.github.io/)
     - HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression
     - ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model
     - Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization
