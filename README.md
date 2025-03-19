@@ -105,7 +105,7 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
 ### In-parameter Knowledge Consolidation
 > For an in-depth dive into continual learning, you can check *[A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954?casa_token=rtsIfvzxseUAAAAA:lWUT6qxLxOk1BRwrokexAiMSM7wGhnI5QWErNixMzoqp-sfjmNWlxEAF8jF5wG4pkOqVWAOPWg)*
 - **Regularization Approaches**:
-  > Classic approaches include
+  > Some classic approaches include
   >  - Learning without Forgetting [[IEEE](https://ieeexplore.ieee.org/abstract/document/8107520?casa_token=eKanaS0lU2YAAAAA:G3VXEK27gn7X8JmSkYMABjPTLBqFSyOPD--hYG0BZGhMcf98-awrv0XBLW5VBD3ABgvbbVTvkg)]
   >  - Overcoming catastrophic forgetting in neural networks [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.1611835114)]
   >  - Continual Learning Through Synaptic Intelligence [[PMLR](https://proceedings.mlr.press/v70/zenke17a)]
@@ -117,6 +117,12 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - A lifelong learning approach to mobile robot navigation
     
 - **Architectural Approaches**: Parameter-efficient adapters, progressive networks.
+  > Some classic approaches include
+  >  - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/html/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.html)]
+  >  - PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/html/Mallya_PackNet_Adding_Multiple_CVPR_2018_paper.html)]
+  >  - Expert gate: Lifelong learning with a network of experts [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/html/Aljundi_Expert_Gate_Lifelong_CVPR_2017_paper.html)]
+  >  - Progressive Neural Networks [[NeurIPS](https://openreview.net/forum?id=Hy1e7Z05)]
+  >  - Coscl: Cooperation of small continual learners is stronger than a big one [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_15)]
   - Lossless adaptation of pretrained vision models for robotic manipulation
   - Spawnnet: Learning generalizable visuomotor skills from pre-trained network
   - Minimally invasive morphology adaptation via parameter efﬁcient ﬁne-tuning
