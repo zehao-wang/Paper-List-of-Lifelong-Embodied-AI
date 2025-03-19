@@ -130,6 +130,10 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   - Sim-to-real robot learning from pixels with progressive nets
   
 - **Replay Approaches**: Episodic memory, adversarial replay, generative replay.
+  > Some classic approaches include
+  >  - iCaRL: Incremental Classifier and Representation Learning [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/html/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.html)]
+  >  - Dark Experience for General Continual Learning: a Strong, Simple Baseline [[NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/b704ea2c39778f07c617f6b7ce480e9e-Abstract.html)]
+  >  - Continual Learning with Deep Generative Replay [[NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/0efbe98067c6c73dba1250d2beaa81f9-Abstract.html)]
   - Online object model reconstruction and reuse for lifelong improvement of robot manipulation
   - Task-unaware lifelong robot learning with retrieval-based weighted local adaptation
   - Continual learning for anthropomorphic hand grasping
