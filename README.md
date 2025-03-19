@@ -103,7 +103,13 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
 
 ## 3 Knowledge Consolidation
 ### In-parameter Knowledge Consolidation
+> For an in-depth dive into continual learning, you can check *[A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954?casa_token=rtsIfvzxseUAAAAA:lWUT6qxLxOk1BRwrokexAiMSM7wGhnI5QWErNixMzoqp-sfjmNWlxEAF8jF5wG4pkOqVWAOPWg)*
 - **Regularization Approaches**:
+  > Classic approaches include
+  >  - Learning without Forgetting [[IEEE](https://ieeexplore.ieee.org/abstract/document/8107520?casa_token=eKanaS0lU2YAAAAA:G3VXEK27gn7X8JmSkYMABjPTLBqFSyOPD--hYG0BZGhMcf98-awrv0XBLW5VBD3ABgvbbVTvkg)]
+  >  - Overcoming catastrophic forgetting in neural networks [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.1611835114)]
+  >  - Continual Learning Through Synaptic Intelligence [[PMLR](https://proceedings.mlr.press/v70/zenke17a)]
+  >  - Gradient Episodic Memory for Continual Learning [[NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/f87522788a2be2d171666752f97ddebb-Abstract.html)]
   - Language models meet world models: Embodied experiences enhance language models
   - Airloop: Lifelong loop closure detection
   - Continual learning for robotic grasping detection with knowledge transferring
