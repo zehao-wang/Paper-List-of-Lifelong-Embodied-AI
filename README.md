@@ -5,6 +5,11 @@ We introduce the **Knowledge Evolution for Lifelong Embodied AI** to help positi
 Thank you for your support and collaboration!
 
 
+<div style="text-align: center;">
+    <img src="assets/tessar2.png" alt="Description" style="width: 60%;">
+</div>
+
+
 ## Table of Contents
 - [0. Introduction](#0-introduction)
 - [1. Embodied Agent Initialization](#1-embodied-agent-initialization)
