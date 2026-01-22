@@ -34,16 +34,19 @@ Lifelong embodied AI aims to enable autonomous agents to evolve continuously by 
 - Voxposer: Composable 3d value maps for robotic manipulation with language models
   
 ### Embodied Foundation Models/ Vision-Language-Action models
+- OpenVLA Series: OpenVLA / OpenVLA-OFT [repo](https://github.com/moojink/openvla-oft/tree/main)
+- Pi series: Pi0 / Pi0.5 / Pi0.6 [repo](https://github.com/Physical-Intelligence/openpi)
+- Isaac-GROOT [repo](https://github.com/NVIDIA/Isaac-GR00T)
 - PaLM-E: An Embodied Multimodal Language Model
 - SayCan: Do as I Can, Not as I Say: Grounding Language in Robotic Affordances
 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
 - Open X-Embodiment: Robotic Learning Datasets and RT-X Models
-- OpenVLA: An Open-Source Vision-Language-Action Model
 
 ## 2 Data Collection
 ### Human-Curated Data
 A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodied AI Paper List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List).
 - **Robotic Manipulation**:
+  - LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [repo](https://github.com/Lifelong-Robot-Learning/LIBERO)
   - Jacquard: A Large Scale Dataset for Robotic Grasp Detection
   - ACRONYM: A Large-Scale Grasp Dataset Based on Simulation
   - MultigripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands
