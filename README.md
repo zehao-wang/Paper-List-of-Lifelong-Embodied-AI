@@ -131,11 +131,15 @@ A breif collection of Embodied AI tasks, more sophisticated can refer to [Embodi
   >  - Expert gate: Lifelong learning with a network of experts [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/html/Aljundi_Expert_Gate_Lifelong_CVPR_2017_paper.html)]
   >  - Progressive Neural Networks [[NeurIPS](https://openreview.net/forum?id=Hy1e7Z05)]
   >  - Coscl: Cooperation of small continual learners is stronger than a big one [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_15)]
+  - CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion
+  - Sparse Diffusion Policy: A Sparse, Reusable, and Flexible Policy for Robot Learning
+  - Flexible Multitask Learning with Factorized Diffusion Policy
   - Lossless adaptation of pretrained vision models for robotic manipulation
   - Spawnnet: Learning generalizable visuomotor skills from pre-trained network
   - Minimally invasive morphology adaptation via parameter efﬁcient ﬁne-tuning
   - Efﬁcient policy adaptation with contrastive prompt ensemble for embodied agents
   - Sim-to-real robot learning from pixels with progressive nets
+
   
 - **Replay Approaches**: Episodic memory, adversarial replay, generative replay.
   > Some classic approaches include
